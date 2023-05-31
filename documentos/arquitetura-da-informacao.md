@@ -2,6 +2,8 @@
 
 ## Inventário
 
+Tudo o que será exibido na interface, arquivos, visualizações
+
 - _solução_
 - _contexto_ (da interoperabilidade)
 - _autores_ (email, conta)
