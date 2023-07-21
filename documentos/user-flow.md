@@ -1,18 +1,18 @@
 # User FLow
 
-## Cadastro
+## Cadastro (Gabriel, Esther)
 
 - Acessar landing page e navegar pela opção de cadastro
 - Realizar cadastro de um novo usuário
 - Ler informações sobre autorização de cadastro, pos exige confirmação do email e outros
 
-## Login
+## Login (Pedro)
 
 - Acessar landing page e navegar pela opção de login
 - Realizar login do usuário (via username, password)
 - Realizar login do usuário (via conta google)
 
-## Página de projetos
+## Página de projetos (Layane)
 
 - Selecionar um projeto existente
 - Buscar por projeto
