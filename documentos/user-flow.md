@@ -2,9 +2,9 @@
 
 ## Cadastro (Gabriel, Esther)
 
-- Acessar landing page e navegar pela opção de cadastro
-- Realizar cadastro de um novo usuário
-- Ler informações sobre autorização de cadastro, pos exige confirmação do email e outros
+- Acessar landing page e navegar pela opção de cadastro (Gabriel)
+- Realizar cadastro de um novo usuário (Gabriel)
+- Ler informações sobre autorização de cadastro, pois exige confirmação do email e outros (Esther)
 
 ## Login (Pedro)
 
@@ -22,8 +22,8 @@
 
 ## Página do projeto aberto (João Mário, Pedro)
 
-- retornar para a página de projetos
-- adicionar nova instância ao projeto
-- editar informações de uma instância
-- exportar projeto
-- visualização do histórico de edição
+- retornar para a página de projetos (João Mário)
+- adicionar nova instância ao projeto (João Mário)
+- editar informações de uma instância (João Mário)
+- exportar projeto (Pedro)
+- visualização do histórico de edição (Pedro)
