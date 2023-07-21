@@ -1,13 +1,5 @@
 # User FLow
 
-Obtém acesso as soluções do usuário.
-Abrir solução
-Vá para a visão de soluções
-Faça busca para localizar a solução desejada, se for o caso.
-Selecione a solução.
-Solução aberta
-Verificar código (por exemplo, A90 é código para a Deng
-
 ## Cadastro
 
 - Acessar landing page e navegar pela opção de cadastro
@@ -20,4 +12,15 @@ Verificar código (por exemplo, A90 é código para a Deng
 - Acessar landing page e navegar pela opção de login
 - Realizar login do usuário (via username, password)
 - Realizar login do usuário (via conta google)
+
+## Página de projetos
+
+- Selecionar um projeto existente
+- Buscar por projeto
+- Criar um novo projeto
+- Apagar projeto existente
+- Editar as informações de um projeto existente
+
+## Página do projeto aberto
+
 - 
