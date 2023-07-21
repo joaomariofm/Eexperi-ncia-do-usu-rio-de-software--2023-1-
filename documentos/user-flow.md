@@ -20,7 +20,7 @@
 - Apagar projeto existente
 - Editar as informações de um projeto existente
 
-## Página do projeto aberto
+## Página do projeto aberto (João Mário, Pedro)
 
 - retornar para a página de projetos
 - adicionar nova instância ao projeto
