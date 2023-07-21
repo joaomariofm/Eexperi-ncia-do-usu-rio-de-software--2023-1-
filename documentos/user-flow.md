@@ -26,3 +26,4 @@
 - adicionar nova instância ao projeto
 - editar informações de uma instância
 - exportar projeto
+- visualização do histórico de edição
