@@ -5,7 +5,6 @@
 - Acessar landing page e navegar pela opção de cadastro
 - Realizar cadastro de um novo usuário
 - Ler informações sobre autorização de cadastro, pos exige confirmação do email e outros
-- 
 
 ## Login
 
@@ -23,4 +22,7 @@
 
 ## Página do projeto aberto
 
-- 
+- retornar para a página de projetos
+- adicionar nova instância ao projeto
+- editar informações de uma instância
+- exportar projeto
