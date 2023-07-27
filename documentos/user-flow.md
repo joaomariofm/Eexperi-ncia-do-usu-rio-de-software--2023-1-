@@ -25,6 +25,7 @@
 - retornar para a página de projetos (João Mário)
 ![userflow](./assets/return-to-projects-page-userflow.png)
 - adicionar nova instância ao projeto (João Mário)
+![userflow](./assets/add-new-instance-userflow.png)
 - editar informações de uma instância (João Mário)
 - exportar projeto (Pedro)
 - visualização do histórico de edição (Pedro)
