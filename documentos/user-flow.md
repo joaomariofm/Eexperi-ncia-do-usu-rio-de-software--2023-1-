@@ -9,9 +9,13 @@
 ## Login (Pedro)
 
 - Acessar landing page e navegar pela opção de login
-![userflow](.assets/acessar_login.png)
+![userflow](./assets/acessar_login.png)
 - Realizar login do usuário (via username, password)
+![userflow](./assets/usuario_e_senha.png)
 - Realizar login do usuário (via conta google)
+![userflow](./assets/login_google.png)
+- Recuperar senha
+![userflow](./assets/recuperar_senha.png)
 
 ## Página de projetos (Layane)
 
