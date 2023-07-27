@@ -22,11 +22,11 @@
 
 ## Página do projeto aberto (João Mário, Pedro)
 
-- retornar para a página de projetos (João Mário)
+- Retornar para a página de projetos (João Mário)
 ![userflow](./assets/return-to-projects-page-userflow.png)
-- adicionar nova instância ao projeto (João Mário)
+- Adicionar nova instância ao projeto (João Mário)
 ![userflow](./assets/add-new-instance-userflow.png)
-- editar informações de uma instância (João Mário)
+- Editar informações de uma instância (João Mário)
 ![userflow](./assets/edit-instance-information-userflow.png)
 - exportar projeto (Pedro)
 - visualização do histórico de edição (Pedro)
