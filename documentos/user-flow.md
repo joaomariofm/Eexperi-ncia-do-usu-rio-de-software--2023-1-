@@ -23,6 +23,7 @@
 ## Página do projeto aberto (João Mário, Pedro)
 
 - retornar para a página de projetos (João Mário)
+![./assets/return-to-projects-page-userflow.png]
 - adicionar nova instância ao projeto (João Mário)
 - editar informações de uma instância (João Mário)
 - exportar projeto (Pedro)
