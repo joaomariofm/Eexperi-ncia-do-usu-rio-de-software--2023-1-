@@ -9,6 +9,7 @@
 ## Login (Pedro)
 
 - Acessar landing page e navegar pela opção de login
+![userflow](.assets/acessar_login.png)
 - Realizar login do usuário (via username, password)
 - Realizar login do usuário (via conta google)
 
