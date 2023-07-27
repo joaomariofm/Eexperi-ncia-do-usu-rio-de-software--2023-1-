@@ -27,5 +27,6 @@
 - adicionar nova instância ao projeto (João Mário)
 ![userflow](./assets/add-new-instance-userflow.png)
 - editar informações de uma instância (João Mário)
+![userflow](./assets/edit-instance-information-userflow.png)
 - exportar projeto (Pedro)
 - visualização do histórico de edição (Pedro)
