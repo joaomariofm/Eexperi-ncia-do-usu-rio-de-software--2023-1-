@@ -3,7 +3,9 @@
 ## Cadastro (Gabriel, Esther)
 
 - Acessar landing page e navegar pela opção de cadastro (Gabriel)
+  ![Cadastro (1)](https://github.com/joaomariofm/experiencia-do-usuario-de-software-2023-1/assets/80073676/a0b041f6-7110-4f32-8f24-0725c732c2c9)
 - Realizar cadastro de um novo usuário (Gabriel)
+  ![Cadastro](https://github.com/joaomariofm/experiencia-do-usuario-de-software-2023-1/assets/80073676/3c8685f6-84ce-46b9-9cdf-3a0129fae01c)
 - Ler informações sobre autorização de cadastro, pois exige confirmação do email e outros (Esther)
 
 ## Login (Pedro)
