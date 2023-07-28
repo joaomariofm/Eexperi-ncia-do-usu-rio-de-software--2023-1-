@@ -37,4 +37,6 @@
 - Editar informações de uma instância
 ![userflow](./assets/edit-instance-information-userflow.png)
 - exportar projeto (Pedro)
+![1](https://github.com/joaomariofm/experiencia-do-usuario-de-software-2023-1/assets/59118868/1665082b-da2d-4cd9-9a05-a5344749f4bf)
 - visualização do histórico de edição (Pedro)
+![2](https://github.com/joaomariofm/experiencia-do-usuario-de-software-2023-1/assets/59118868/605d0034-7652-4c2a-ab32-51757487c311)
