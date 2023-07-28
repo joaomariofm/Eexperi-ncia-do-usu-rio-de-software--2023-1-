@@ -1,4 +1,4 @@
-# User FLow
+# User Flow
 
 ## Cadastro (Gabriel, Esther)
 
