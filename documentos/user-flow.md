@@ -24,6 +24,7 @@
 - Criar um novo projeto
 - Apagar projeto existente
 - Editar as informações de um projeto existente
+![userflow](./assets/UserFlowPaginaDeProjetos.png)
 
 ## Página do projeto aberto (João Mário, Pedro)
 
