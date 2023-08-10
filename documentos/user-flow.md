@@ -1,14 +1,13 @@
 # User Flow
 
-## Cadastro (Gabriel, Esther)
+## Cadastro
 
 - Acessar landing page e navegar pela opção de cadastro
   ![Cadastro (1)](https://github.com/joaomariofm/experiencia-do-usuario-de-software-2023-1/assets/80073676/a0b041f6-7110-4f32-8f24-0725c732c2c9)
 - Realizar cadastro de um novo usuário
   ![Cadastro](https://github.com/joaomariofm/experiencia-do-usuario-de-software-2023-1/assets/80073676/3c8685f6-84ce-46b9-9cdf-3a0129fae01c)
-- Ler informações sobre autorização de cadastro, pois exige confirmação do email e outros (Esther)
 
-## Login (Pedro)
+## Login
 
 - Acessar landing page e navegar pela opção de login
 ![userflow](./assets/acessar_login.png)
@@ -19,7 +18,7 @@
 - Recuperar senha
 ![userflow](./assets/recuperar_senha.png)
 
-## Página de projetos (Layane)
+## Página de projetos
 
 - Selecionar um projeto existente
 - Buscar por projeto
@@ -28,7 +27,7 @@
 - Editar as informações de um projeto existente
 ![userflow](./assets/UserFlowPaginaDeProjetos.png)
 
-## Página do projeto aberto (João Mário, Pedro)
+## Página do projeto aberto
 
 - Retornar para a página de projetos
 ![userflow](./assets/return-to-projects-page-userflow.png)
